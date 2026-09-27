@@ -1,0 +1,6 @@
+{
+  "name": "Royal Sky Compliance Gate - Whistleblowing System",
+  "description": "نظام البلاغات والشكاوى السرية لشركة رويال سكاي - بوابات الزائر، الإدارة، الموظفين، والتدقيق",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
